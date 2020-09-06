@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there!
+
+I have no clue why you're checking out my profile but have fun...
 
 <!--
 **NoNameG0d/NoNameG0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
